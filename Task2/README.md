@@ -167,7 +167,4 @@ Replace <your-mongodb-connection-string> and <your-secret-key> in .env with actu
 
 LocalStorage is used only for temporary frontend state; backend ensures persistence.
 
-👤 Author
 
-Nikhil Akkenapally
-Full-stack developer | React & Node.js Enthusiast
